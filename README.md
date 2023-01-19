@@ -20,11 +20,10 @@ Project Description           :  Good  memories  Will give the more happiness.
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot, App service.
 .....................................................................................................................................................
 
-1,Static Web App URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net
+1,Static Web App URL :  
 
-2,Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  
+2,Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  https://proud-plant-037b3b210.2.azurestaticapps.net/about.html
 
 ........................................................................................................................................................
 
-## MY WEBSITE LINK IS : https://proud-plant-037b3b210.2.azurestaticapps.net
-
+## MY WEBSITE LINK IS :
