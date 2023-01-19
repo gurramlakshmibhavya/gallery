@@ -28,4 +28,6 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot, App service.
 
 ........................................................................................................................................................
 
+Project demo video URL: https://drive.google.com/drive/folders/1O_aaT7gWWwQIf-c5uJPv7T-FBTaPPsj8
+
 ## MY WEBSITE LINK IS :  https://proud-plant-037b3b210.2.azurestaticapps.net
