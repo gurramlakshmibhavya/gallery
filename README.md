@@ -57,6 +57,7 @@ Project demo video URL: https://drive.google.com/drive/folders/1O_aaT7gWWwQIf-c5
 
 ## HOME/pages
 
+
 <img width="1066" alt="b page code" src="https://user-images.githubusercontent.com/118154933/213481782-0290e3e8-cee1-4723-890d-0b68329fb162.png">
 
 <img width="1064" alt="b page about2" src="https://user-images.githubusercontent.com/118154933/213481810-5a688831-1e4a-4d47-9e64-dd6407849c98.png">
