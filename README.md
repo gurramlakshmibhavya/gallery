@@ -22,9 +22,10 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot, App service.
 
 1,Static Web App URL :  https://proud-plant-037b3b210.2.azurestaticapps.net
 
-2,Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  https://proud-plant-037b3b210.2.azurestaticapps.net/about.html
+2,Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  https://proud-plant-037b3b210.2.azurestaticapps.net/bot.html
 
 3, App service URL : 
+
 ........................................................................................................................................................
 
 ## MY WEBSITE LINK IS :  https://proud-plant-037b3b210.2.azurestaticapps.net
